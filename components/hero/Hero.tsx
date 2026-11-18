@@ -83,7 +83,7 @@ export default function Hero() {
   </a>
 
   <a
-    href="https://www.linkedin.com/in/prithish-saha-780682359"
+    href="https://www.linkedin.com/in/srija-ghorui-1a1a922b4/"
     target="_blank"
     rel="noopener noreferrer"
     className="transition duration-300 hover:-translate-y-1 hover:text-cyan-400"
