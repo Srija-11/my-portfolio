@@ -1,0 +1,38 @@
+@import "tailwindcss"; 
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #050816;
+  color: white;
+  overflow-x: hidden;
+}
+
+::selection {
+  background: #38bdf8;
+  color: white;
+}
+
+section {
+  padding: 100px 8%;
+}  
+
+.card-hover{
+transition:0.35s;
+}
+
+.card-hover:hover{
+transform:translateY(-8px);
+}  
+
+.gradient-text {
+  background: linear-gradient(90deg, #38bdf8, #8b5cf6);
+
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
