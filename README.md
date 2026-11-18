@@ -1,11 +1,10 @@
-# 🚀 Prithish Saha | Portfolio
+# 🚀 Srija Ghorui | Portfolio
 
-A modern AI Engineer portfolio built with **Next.js 16**, **TypeScript**, **Tailwind CSS v4**, **Framer Motion**, and **Shadcn UI**.
+A modern portfolio built with **Next.js 16**, **TypeScript**, **Tailwind CSS v4**, **Framer Motion**, and **Shadcn UI**.
 
 ## 🌐 Live Demo
 
-https://prithish-portfolio.vercel.app           
-
+https://my-portfolio-ten-bice-16.vercel.app/
 ---
 
 ## 📌 Features
@@ -38,12 +37,8 @@ https://prithish-portfolio.vercel.app
 - Python
 - FastAPI  
 - Flask  
-- LangChain  
-- Retrieval Augmented Generation
-- ChromaDB
 - TensorFlow
 - OpenCV
-- YOLOv8
 - Gemini API
 - Prompt Engineering
 
@@ -51,15 +46,14 @@ https://prithish-portfolio.vercel.app
 
 - MongoDB
 - MySQL
-- ChromaDB
 ---
 
 ## 🚀 Installation
 
 ```bash
-https://github.com/Prithish44/Prithish-Portfolio.git       
+https://github.com/Srija-11/my-portfolio.git       
 
-cd prithish-portfolio
+cd my-portfolio
 
 npm install
 
@@ -76,16 +70,3 @@ components/
 lib/
 public/
 ```
-
----
-
-## 📬 Contact
-
-Email:
-prithish.saha44@gmail.com
-
-LinkedIn:
-https://www.linkedin.com/in/prithish-saha-780682359
-
-GitHub:
-https://github.com/prithish-saha  
