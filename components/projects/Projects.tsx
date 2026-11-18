@@ -52,21 +52,24 @@ const projects = [
     github: "https://github.com/Srija-11/Whatsapp-chat-analyzer",
     demo: "https://wp-chat-analyzer-1.streamlit.app/",
   },
+  
   {
-    title: "Netflix Movie Data Analysis",
-    description:
-      "Performed exploratory data analysis on Netflix movie and TV show datasets to uncover trends in content distribution, genres, release patterns, and other viewing-related insights.",
-    technologies: [
-      "Python",
-      "Pandas",
-      "NumPy",
-      "Matplotlib",
-      "Seaborn",
-      "Data Analysis",
-    ],
-    github: "https://github.com/Srija-11/Netflix-movie-data-analysis",
-    demo: "#",
-  },
+  title: "AI-Powered Chatbot",
+  description:
+    "Developed an AI-powered chatbot with real-time streaming responses, multiple conversational personas, and context-aware interactions using a Node.js backend and Groq API.",
+  technologies: [
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "Groq API",
+    "HTML",
+    "CSS",
+    "REST API",
+  ],
+  github: "https://github.com/Srija-11/AI-chatbot",
+  demo: "https://ai-chatbot-nine-plum.vercel.app/",
+},
+
   {
     title: "Real-Time Multiplayer Chess Game",
     description:
@@ -79,7 +82,7 @@ const projects = [
       "CSS",
     ],
     github: "https://github.com/Srija-11/Chess-Game",
-    demo: "#",
+    demo: "https://chess-game-oerb.vercel.app/",
   },
 ];
 
